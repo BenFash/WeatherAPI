@@ -40,6 +40,7 @@ button[type="submit"]:hover {
     background: linear-gradient(180deg, hsl(208, 59%, 67%), hsl(51, 100%, 65%));
     padding: 50px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
     min-width: 300px;
     display: flex;
     flex-direction: column;
